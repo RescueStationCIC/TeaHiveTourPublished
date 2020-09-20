@@ -1,0 +1,126 @@
+#: locale=en
+
+## Tour
+
+### Title
+tour.name = Tea Hive
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Description
+photo_CE4BDD7C_AFDC_5072_41BE_319478759080.description = This is Reg. Reg wanted a treat. I Can you tell..?
+
+### Subtitle
+album_C7A7E36F_AF2B_D06E_41CC_D2D684E92C5B.subtitle = Lovely leaves and weathered metal and wood textures.
+
+### Title
+album_1005FDD1_AD35_D0B2_41DF_2722ABEBDA32.label = Teapots
+album_16E3D0A8_ADD4_5092_41D0_D8217566881D.label = Spider Plants
+album_1B20B90A_AD3B_B196_4196_6935E5E6092B.label = Hire Our Space
+album_1EC152C4_AD34_5092_41E1_663D42C3E7DD.label = Book-share
+album_4B3AA916_AD55_D1BE_41C7_608E18EB9D0D.label = Tea Hive Everything
+album_6294BCCF_ADDB_F0AE_41D6_3D4F5CFF8FDA.label = Bees
+album_63CE0D38_AD2C_51F2_41DD_87DFC6FD6A60.label = All Things Pass
+album_6E953D5A_AD2C_51B6_41E4_672AFA4F284D.label = Flaming oil
+album_6FCDF167_ADD5_D19E_41DF_44A0FBE78EC2.label = Facebook Wall
+album_727F1CB8_AD2C_50F2_41D0_E1723DB71D7C.label = Textured Painting
+album_7D1E2CB8_AD3D_F0F2_41D5_0CFC9474F67B.label = Sun-kissed morning
+album_C12FDD0F_AF74_71AE_41C7_0826A1C9D01A.label = Caffeination Station
+album_C42EB427_AFD5_D79E_41D3_494CA2F61526.label = People Watching Station
+album_C7A7E36F_AF2B_D06E_41CC_D2D684E92C5B.label = Textures
+album_D65E8A23_AFF5_B396_41DF_8196592B14F8.label = Tea Hive Counter
+album_D88AC347_AF2D_D19E_419D_E3C9916B8FBF.label = Table 12
+album_DA0FC39C_AF34_50B2_41B7_C4F380A6CB03.label = Tea Hive Sign
+album_F0E3E4BA_ADEC_B0F6_41B9_60D9F26507AF.label = Tea Hive Stills
+album_F3064BC0_AF34_D092_41DF_DEBA539E3AA2.label = Coconut orange cake
+album_FF7D8CAD_AF77_D092_41E4_1CE456F919A9.label = Summer Isn't Over!
+map_8FAE4706_A55C_519E_41D5_8E0E4EB463FC.label = Tea Hive First Floor
+map_ABBE2BD7_A557_F0BE_41E3_BDEE77844662.label = Tea Hive Ground Floor
+panorama_889A0C98_A4D4_D0B2_41E1_A28545595E7A.label = Tea Hive, stairs ---
+panorama_88C84911_A4D4_71B2_41D1_2E35D53639B6.label = Tea Hive back terrace --
+panorama_88C87776_A4D4_D07E_41BE_B94FDBA1FB49.label = Tea Hive back terrace ---
+panorama_88C87FDC_A4D4_B0B2_41E3_EB933FF028A5.label = Tea Hive back terrace -
+panorama_89285380_A52C_5092_41C7_5849FE264E1D.label = Tea Hive, top, back stage -
+panorama_892D86DD_A52C_F0B2_41DB_89C45E5CCA46.label = Tea Hive, top, back stage ---
+panorama_892E06A5_A52C_B092_41D7_E3FC3C9E7428.label = Tea Hive, top, back stage --
+panorama_893449AD_A52C_D092_41C1_AC525F9CC67E.label = Tea Hive, top, landing -
+panorama_893479C2_A52C_B096_41D3_9CD8B7612402.label = Tea Hive, stairs
+panorama_89349835_A52D_BFF2_41E4_0FA9104760AE.label = Tea Hive, top, front ---
+panorama_893499B5_A52D_D0F2_419C_154B964E39C3.label = Tea Hive, top, central
+panorama_8934A28C_A52C_5092_41AB_0F0B55E67370.label = Tea Hive, top, back room
+panorama_8934AB0A_A52C_7196_41CD_9F352F1EF9F6.label = Tea Hive, top, back room -
+panorama_89351044_A52C_AF92_41DF_8E6240F7A58E.label = Tea Hive, top, central ----
+panorama_893516E9_A52C_F092_41BD_3CA136D5B184.label = Tea Hive, top, central ---
+panorama_89353039_A52C_6FF2_41E3_25880863201D.label = Tea Hive, top, front --
+panorama_89354F53_A52C_B1B6_41E2_A9CA02FFFD69.label = Tea Hive, top, central --
+panorama_89357932_A52C_51F6_41DE_CD33246DF846.label = Tea Hive, top, front ----
+panorama_89359591_A52F_B0B2_41E0_D9C7BFE73910.label = Outside Tea Hive
+panorama_8935D40D_A52F_D792_41D5_A5A00FAB2454.label = Tea Hive, back ---
+panorama_89362EB2_A52C_F0F6_41E3_3C0FE2861642.label = Tea Hive lobby ---
+panorama_89363BBE_A52C_50EE_41D9_06985AAB7989.label = Tea Hive, back --
+panorama_893644A7_A52C_D09E_41DF_79B6CD4094D0.label = Tea Hive, central ---
+panorama_8936781D_A52C_BFB2_41B7_CC86C1C24EA9.label = Tea Hive central
+panorama_893686DA_A52D_D0B6_41C9_87A2869515D6.label = Tea Hive lobby
+panorama_8936DB97_A52C_50BE_41D3_1EF687C70811.label = Tea Hive lobby -
+panorama_8936EF3F_A52D_F1EE_41E2_83A7F3EBC542.label = Tea Hive, lobby ----5
+panorama_8936F7CD_A52D_B092_41BD_C298735E6EF6.label = Tea Hive, lobby ---5
+panorama_89370E23_A52C_5396_41E1_E6C52EB2CAC1.label = Tea Hive through the door
+panorama_89371C03_A52C_B796_41D2_0A80220670A7.label = Tea Hive, lobby -----
+panorama_89372B4D_A52B_B192_41D6_5EBE27493D01.label = Tea Hive central --
+panorama_8937550D_A52C_7192_41D4_0F179748FAB0.label = Tea Hive, lobby ----
+panorama_89379404_A52B_D792_41E2_42482D10F3FB.label = Tea Hive back
+panorama_8937950D_A52C_7192_41C1_612D306F927F.label = Tea Hive central -
+panorama_8937E363_A52C_D196_41D2_36F9953AD257.label = Tea Hive, lobby -5
+panorama_8937F1F0_A52B_B072_41E0_ACBE79E92932.label = Tea Hive back terrace
+panorama_89385CC9_A52B_D092_41D7_83A9F46562D5.label = Tea Hive back -
+panorama_8938EA4F_A52C_D3AE_41CA_9C0EC4D1B95E.label = Tea Hive, lobby --5
+panorama_89390157_A52C_71BE_41CF_67302C735221.label = Tea Hive lobby --
+panorama_8939A235_A52C_73F2_41C0_3C3067202A8D.label = Tea Hive, central ----
+panorama_893A5CE6_A52F_F09E_41D0_8B9F89868A8C.label = Tea Hive, back ----
+panorama_893A5E79_A52C_5072_419E_DABD812C0598.label = Tea Hive front terrace
+panorama_893AE748_A52C_5192_41E1_1E858F622F06.label = Tea Hive, top, central -
+panorama_893B31A8_A52D_F092_41D6_8910CF2493C0.label = Tea Hive, top, front -
+panorama_893B913B_A52C_D1F6_41CF_A8CC1AA2CBD9.label = Tea Hive, top, landing --
+panorama_893BA2A4_A52C_B092_41C3_FC0656FCA28E.label = Tea Hive, top, landing
+panorama_893BA2BB_A52C_70F6_41E3_22694D1333F9.label = Tea Hive, stairs -
+panorama_893BEA16_A52C_53BF_41BD_5E793A58269A.label = Tea Hive, stairs --
+panorama_893C0187_A52B_D09E_41DE_4929794BCF59.label = Tea Hive front door
+panorama_894812A3_A53C_5096_41CE_BA0111168C6B.label = Tea Hive, top, front
+panorama_8955E0FC_A52B_F072_41DE_0B1779584C2C.label = Tea Hive, top, back stage
+photo_AB8DECBA_A534_70F6_41D8_9BA20F2ABA9E.label = IMG_1014
+photo_CE4B73AB_AFDC_5096_4182_0854911E6C22.label = Orange hot-chocolate. Shot of espresso
+photo_CE4BDD7C_AFDC_5072_41BE_319478759080.label = Reg
+photo_E2ED57F1_ADEC_5072_41BA_351ED0595A2B.label = Lonely scooter
+photo_E2EDB5B2_ADEC_D0F6_41D2_B8FF93F1F3D1.label = Yellow Submarine
+photo_E2EDC155_ADEC_F1B2_41D0_054DE1F4B799.label = Bagel of the month
+photo_E2EDC6CB_ADEC_D096_41AE_5BF4B5E1D38E.label = Caffeination Station
+photo_E2EDDC71_ADEC_B072_41D7_B0A7D18EEC66.label = Banish the blues
+photo_E2EDF1FB_ADEC_B076_41BC_C11035934994.label = Scooter with a story
+photo_E2EDFB8A_ADEC_F096_41D1_9898251C8BFB.label = Summer isn't over
+photo_EC5DF982_AD2C_B096_41E4_93D92651C7B9.label = People-watching station
+photo_F619AB16_AD54_51BF_41E3_86B3E81D1B5D.label = Painting in flaming colour
+photo_F6C4EE7F_AD2C_706E_41B2_82298624D63E.label = Teapots
+photo_F6DC6D15_ADD5_D1B2_41D0_A9C1902E2DF0.label = Textured painting
+
+## Popup
+
+### Body
+htmlText_AB8D37D1_A535_D0B2_41C4_A8AB4798A1D1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">You can find Tea Hive on:</SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://en-gb.facebook.com/teahivechorlton/" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#3333cc;">Facebook</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://twitter.com/teahivetweets" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#0099ff;">Twitter</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://www.instagram.com/teahivechorlton/?hl=en" STYLE="text-decoration:none; color:inherit;">Insta</A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Remember to always be kind on The Interwebs �</SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">&gt;</SPAN></DIV></div>
+htmlText_C6AA0CA5_AF34_5092_41D4_35826109679E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">This is Clarence. She is a Larry vs. Harry Bullitt cargo bike. She's the second. The first Clarence lasted 12 years, and hauled 2 kids around from the ages of 6 months until they finally started complaining of the squash when they were 7 and 9. Cargo bikes are ridiculously easy to ride, and deceptively capacious. Get one and lose a car! :-) </SPAN></DIV></div>
+htmlText_CAB96D77_AF6C_F07E_41D2_D1EAD8317711.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">I am a lonely scooter. I've been waiting for my kid for <I>ages</I>. But I'm very grateful for the concern of all the passers-by. Especially the one who left me a bowl of water. In case you're thinking of doing it again, I like the orange hot-chocolate. And the cakes... Just saying.</SPAN></DIV></div>
+
+### Title
+window_AB567066_A5D4_6F9E_41A8_49351B81C88F.title = Clarence
+window_ABA6C745_A574_B192_41D1_FB1CA3EF65F6.title = Tea Hive on The Interwebs
+window_C69F92C4_AF55_B092_41CC_B15CBDCCA21B.title = The Lonely Scooter
+
+## Action
+
+### URL
+LinkBehaviour_ABAE57A6_A574_509E_41C4_7018F11E8F63.source = www.rescuestation.org
