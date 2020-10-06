@@ -9,10 +9,12 @@ tour.name = Tea Hive
 
 ### Tooltip
 IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
 
 ## Media
 
 ### Description
+photo_CE4BDD7C_AFDC_5072_41BE_319478759080.description = This is Reg. Reg wanted a treat. I Can you tell..?
 photo_CE4BDD7C_AFDC_5072_41BE_319478759080.description = This is Reg. Reg wanted a treat. I Can you tell..?
 
 ### Subtitle
@@ -94,25 +96,38 @@ panorama_894812A3_A53C_5096_41CE_BA0111168C6B.label = Tea Hive, top, front
 panorama_8955E0FC_A52B_F072_41DE_0B1779584C2C.label = Tea Hive, top, back stage
 photo_AB8DECBA_A534_70F6_41D8_9BA20F2ABA9E.label = IMG_1014
 photo_CE4B73AB_AFDC_5096_4182_0854911E6C22.label = Orange hot-chocolate. Shot of espresso
+photo_CE4B73AB_AFDC_5096_4182_0854911E6C22.label = Orange hot-chocolate. Shot of espresso
+photo_CE4BDD7C_AFDC_5072_41BE_319478759080.label = Reg
 photo_CE4BDD7C_AFDC_5072_41BE_319478759080.label = Reg
 photo_E2ED57F1_ADEC_5072_41BA_351ED0595A2B.label = Lonely scooter
+photo_E2ED57F1_ADEC_5072_41BA_351ED0595A2B.label = Lonely scooter
+photo_E2EDB5B2_ADEC_D0F6_41D2_B8FF93F1F3D1.label = Yellow Submarine
 photo_E2EDB5B2_ADEC_D0F6_41D2_B8FF93F1F3D1.label = Yellow Submarine
 photo_E2EDC155_ADEC_F1B2_41D0_054DE1F4B799.label = Bagel of the month
+photo_E2EDC155_ADEC_F1B2_41D0_054DE1F4B799.label = Bagel of the month
+photo_E2EDC6CB_ADEC_D096_41AE_5BF4B5E1D38E.label = Caffeination Station
 photo_E2EDC6CB_ADEC_D096_41AE_5BF4B5E1D38E.label = Caffeination Station
 photo_E2EDDC71_ADEC_B072_41D7_B0A7D18EEC66.label = Banish the blues
+photo_E2EDDC71_ADEC_B072_41D7_B0A7D18EEC66.label = Banish the blues
+photo_E2EDF1FB_ADEC_B076_41BC_C11035934994.label = Scooter with a story
 photo_E2EDF1FB_ADEC_B076_41BC_C11035934994.label = Scooter with a story
 photo_E2EDFB8A_ADEC_F096_41D1_9898251C8BFB.label = Summer isn't over
+photo_E2EDFB8A_ADEC_F096_41D1_9898251C8BFB.label = Summer isn't over
+photo_EC5DF982_AD2C_B096_41E4_93D92651C7B9.label = People-watching station
 photo_EC5DF982_AD2C_B096_41E4_93D92651C7B9.label = People-watching station
 photo_F619AB16_AD54_51BF_41E3_86B3E81D1B5D.label = Painting in flaming colour
+photo_F619AB16_AD54_51BF_41E3_86B3E81D1B5D.label = Painting in flaming colour
 photo_F6C4EE7F_AD2C_706E_41B2_82298624D63E.label = Teapots
+photo_F6C4EE7F_AD2C_706E_41B2_82298624D63E.label = Teapots
+photo_F6DC6D15_ADD5_D1B2_41D0_A9C1902E2DF0.label = Textured painting
 photo_F6DC6D15_ADD5_D1B2_41D0_A9C1902E2DF0.label = Textured painting
 
 ## Popup
 
 ### Body
-htmlText_AB8D37D1_A535_D0B2_41C4_A8AB4798A1D1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">You can find Tea Hive on:</SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://en-gb.facebook.com/teahivechorlton/" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#3333cc;">Facebook</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://twitter.com/teahivetweets" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#0099ff;">Twitter</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://www.instagram.com/teahivechorlton/?hl=en" STYLE="text-decoration:none; color:inherit;">Insta</A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Remember to always be kind on The Interwebs �</SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">&gt;</SPAN></DIV></div>
-htmlText_C6AA0CA5_AF34_5092_41D4_35826109679E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">This is Clarence. She is a Larry vs. Harry Bullitt cargo bike. She's the second. The first Clarence lasted 12 years, and hauled 2 kids around from the ages of 6 months until they finally started complaining of the squash when they were 7 and 9. Cargo bikes are ridiculously easy to ride, and deceptively capacious. Get one and lose a car! :-) </SPAN></DIV></div>
-htmlText_CAB96D77_AF6C_F07E_41D2_D1EAD8317711.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">I am a lonely scooter. I've been waiting for my kid for <I>ages</I>. But I'm very grateful for the concern of all the passers-by. Especially the one who left me a bowl of water. In case you're thinking of doing it again, I like the orange hot-chocolate. And the cakes... Just saying.</SPAN></DIV></div>
+htmlText_AB8D37D1_A535_D0B2_41C4_A8AB4798A1D1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">You can find Tea Hive on:</SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://en-gb.facebook.com/teahivechorlton/" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#3333cc;">Facebook</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://twitter.com/teahivetweets" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#0099ff;">Twitter</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://www.instagram.com/teahivechorlton/?hl=en" STYLE="text-decoration:none; color:inherit;">Insta</A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Remember to always be kind on The Interwebs �</SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">&gt;</SPAN></DIV></div>
+htmlText_C6AA0CA5_AF34_5092_41D4_35826109679E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">This is Clarence. She is a Larry vs. Harry Bullitt cargo bike. She's the second. The first Clarence lasted 12 years, and hauled 2 kids around from the ages of 6 months until they finally started complaining of the squash when they were 7 and 9. Cargo bikes are ridiculously easy to ride, and deceptively capacious. Get one and lose a car! :-) </SPAN></DIV></div>
+htmlText_CAB96D77_AF6C_F07E_41D2_D1EAD8317711.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">I am a lonely scooter. I've been waiting for my kid for <I>ages</I>. But I'm very grateful for the concern of all the passers-by. Especially the one who left me a bowl of water. In case you're thinking of doing it again, I like the orange hot-chocolate. And the cakes... Just saying.</SPAN></DIV></div>
 
 ### Title
 window_AB567066_A5D4_6F9E_41A8_49351B81C88F.title = Clarence
